@@ -1,5 +1,5 @@
-import Footer from "../Footer/Index";
-import Navbar from "../Navbar/Index";
+import Footer from "../Footer";
+import Navbar from "../Navbar/";
 import Head from "next/head";
 
 interface Props {
