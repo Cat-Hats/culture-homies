@@ -5,7 +5,7 @@ interface Navbar {}
 const Navbar: React.FC = () => {
   return (
     <>
-      <NavContainer></NavContainer>
+      <NavContainer>Hi I am a future responsive navbar</NavContainer>
     </>
   );
 };
