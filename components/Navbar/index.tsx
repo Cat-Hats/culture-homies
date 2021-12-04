@@ -1,11 +1,11 @@
-import { NavContainer } from "./NavbarElements";
+import { Container } from "./NavbarElements";
 
 interface Navbar {}
 
 const Navbar: React.FC = () => {
   return (
     <>
-      <NavContainer>Hi I am a future responsive navbar</NavContainer>
+      <Container>Hi I am a future responsive navbar</Container>
     </>
   );
 };

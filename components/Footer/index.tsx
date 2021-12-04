@@ -2,11 +2,11 @@ import React from "react";
 
 interface IndexProps {}
 
-const Index: React.FC<IndexProps> = ({}) => {
+const Footer: React.FC<IndexProps> = ({}) => {
   return (
     <>
       <footer>Hi I am a future responsive footer</footer>
     </>
   );
 };
-export default Index;
+export default Footer;
